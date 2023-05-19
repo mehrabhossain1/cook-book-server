@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "chefName": "Li Ming",
+    "specialty": "Sichuan Cuisine",
+    "recipes": [
+      {
+        "recipeName": "Kung Pao Chicken",
+        "ingredients": "chicken, peanuts, dried chili peppers, soy sauce, vinegar, ginger, garlic",
+        "instructions": "1. Marinate the chicken with soy sauce and cornstarch.\n2. Heat oil in a wok and stir-fry the chicken until cooked.\n3. Add peanuts, dried chili peppers, ginger, and garlic. Stir-fry for a few minutes.\n4. Add soy sauce and vinegar. Mix well.\n5. Serve hot."
+      },
+      {
+        "recipeName": "Mapo Tofu",
+        "ingredients": "tofu, ground pork, chili bean paste, fermented black beans, soy sauce, Sichuan peppercorns, green onions",
+        "instructions": "1. Heat oil in a wok and stir-fry the ground pork until cooked.\n2. Add chili bean paste, fermented black beans, and Sichuan peppercorns. Stir-fry for a minute.\n3. Add tofu and gently stir to combine.\n4. Pour in some water and simmer for a few minutes.\n5. Add soy sauce and adjust the seasoning.\n6. Garnish with chopped green onions and serve hot."
+      },
+      {
+        "recipeName": "Dan Dan Noodles",
+        "ingredients": "noodles, ground pork, sesame paste, chili oil, soy sauce, Sichuan peppercorns, green onions",
+        "instructions": "1. Cook the noodles according to the package instructions.\n2. Heat oil in a pan and stir-fry the ground pork until cooked.\n3. In a bowl, mix sesame paste, chili oil, soy sauce, and Sichuan peppercorns.\n4. Drain the cooked noodles and toss with the sauce.\n5. Top with the stir-fried ground pork and garnish with chopped green onions.\n6. Serve hot."
+      },
+      {
+        "recipeName": "Hot and Sour Soup",
+        "ingredients": "chicken broth, tofu, mushrooms, bamboo shoots, vinegar, soy sauce, chili oil, cornstarch",
+        "instructions": "1. In a pot, bring the chicken broth to a boil.\n2. Add tofu, mushrooms, and bamboo shoots. Simmer for a few minutes.\n3. In a small bowl, mix vinegar, soy sauce, chili oil, and cornstarch.\n4. Stir the mixture into the soup and cook until it thickens.\n5. Adjust the seasoning according to taste.\n6. Serve hot."
+      },
+      {
+        "recipeName": "Cumin Beef",
+        "ingredients": "beef, cumin powder, soy sauce, ginger, garlic, green bell peppers, red bell peppers, onions",
+        "instructions": "1. Marinate the beef with cumin powder, soy sauce, ginger, and garlic.\n2. Heat oil in a wok and stir-fry the marinated beef until browned.\n3. Add sliced green and red bell peppers, and onions. Stir-fry for a few minutes.\n4. Adjust the seasoning if needed.\n5. Serve hot."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefName": "Wang Wei",
+    "specialty": "Cantonese Cuisine",
+    "recipes": [
+      {
+        "recipeName": "Sweet and Sour Pork",
+        "ingredients": "pork, pineapple, bell peppers, onion, ketchup, vinegar, sugar, cornstarch",
+        "instructions": "1. Cut the pork into bite-sized pieces and marinate with soy sauce and cornstarch.\n2. Deep-fry the pork until golden brown and crispy.\n3. In a separate pan, stir-fry bell peppers and onion.\n4. Add ketchup, vinegar, sugar, and pineapple chunks.\n5. In a small bowl, mix cornstarch with water to create a slurry.\n6. Pour the slurry into the pan and cook until the sauce thickens.\n7. Add the fried pork to the pan and mix well.\n8. Serve hot."
+      },
+      {
+        "recipeName": "Steamed Dim Sum",
+        "ingredients": "shrimp, ground pork, water chestnuts, bamboo shoots, wonton wrappers, soy sauce, sesame oil",
+        "instructions": "1. Finely chop the shrimp, ground pork, water chestnuts, and bamboo shoots.\n2. In a bowl, mix the chopped ingredients with soy sauce and sesame oil.\n3. Place a spoonful of the mixture onto each wonton wrapper.\n4. Fold the wrapper in half and seal the edges.\n5. Arrange the dumplings in a steamer basket.\n6. Steam over high heat for about 10 minutes or until cooked through.\n7. Serve hot with soy sauce for dipping."
+      },
+      {
+        "recipeName": "Roast Duck",
+        "ingredients": "duck, five-spice powder, salt, honey, soy sauce, rice wine, ginger",
+        "instructions": "1. Rinse the duck and pat it dry.\n2. Rub the duck with a mixture of five-spice powder and salt.\n3. Let it marinate in the refrigerator for a few hours.\n4. Preheat the oven and roast the duck at a high temperature.\n5. In a separate bowl, mix honey, soy sauce, rice wine, and ginger.\n6. Baste the duck with the sauce every 15 minutes.\n7. Continue roasting until the skin is crispy and the duck is cooked through.\n8. Let it rest for a few minutes before carving.\n9. Serve hot."
+      },
+      {
+        "recipeName": "Yangzhou Fried Rice",
+        "ingredients": "rice, shrimp, ham, eggs, green peas, carrots, green onions, soy sauce",
+        "instructions": "1. Cook the rice and let it cool.\n2. Heat oil in a wok and scramble the eggs. Set them aside.\n3. In the same wok, stir-fry shrimp, ham, green peas, carrots, and chopped green onions.\n4. Add the cooked rice and break it up with a spatula.\n5. Drizzle soy sauce over the rice and mix well.\n6. Add the scrambled eggs and stir-fry for a few more minutes.\n7. Serve hot."
+      },
+      {
+        "recipeName": "Crispy Fried Shrimp",
+        "ingredients": "shrimp, flour, cornstarch, salt, pepper, egg, oil",
+        "instructions": "1. Peel and devein the shrimp, leaving the tails intact.\n2. In a bowl, mix flour, cornstarch, salt, and pepper.\n3. In another bowl, beat the egg.\n4. Dip each shrimp into the beaten egg, then coat it with the flour mixture.\n5. Heat oil in a deep pan and fry the shrimp until golden brown.\n6. Remove the shrimp from the pan and drain excess oil on a paper towel.\n7. Serve hot."
+      }
+    ]
+  }
+]
