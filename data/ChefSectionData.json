@@ -1,0 +1,50 @@
+[
+  {
+    "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Gordon Ramsay",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 1,
+    "likes": 100,
+    "viewRecipesButton": "https://www.gordonramsay.com/recipes/"
+  },
+  {
+    "chefPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Jamie_Oliver_2013_cropped.jpg/220px-Jamie_Oliver_2013_cropped.jpg",
+    "chefName": "Jamie Oliver",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 500,
+    "likes": 500,
+    "viewRecipesButton": "https://www.jamieoliver.com/recipes/"
+  },
+  {
+    "chefPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ina_Garten_2011.jpg/220px-Ina_Garten_2011.jpg",
+    "chefName": "Ina Garten",
+    "yearsOfExperience": 40,
+    "numberOfRecipes": 2,
+    "likes": 200,
+    "viewRecipesButton": "https://www.inagarten.com/recipes/"
+  },
+  {
+    "chefPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Paula_Deen_2012.jpg/220px-Paula_Deen_2012.jpg",
+    "chefName": "Paula Deen",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 1,
+    "likes": 1,
+    "viewRecipesButton": "https://www.pauladeen.com/recipes/"
+  },
+  {
+    "chefPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martha_Stewart_2018.jpg/220px-Martha_Stewart_2018.jpg",
+    "chefName": "Martha Stewart",
+    "yearsOfExperience": 50,
+    "numberOfRecipes": 3,
+    "likes": 3,
+    "viewRecipesButton": "https://www.marthastewart.com/recipes/"
+  },
+  {
+    "chefPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rachael_Ray_in_2012.jpg/220px-Rachael_Ray_in_2012.jpg",
+    "chefName": "Rachael Ray",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 6,
+    "likes": 5,
+    "viewRecipesButton": "https://rachaelraymag.com/recipes/"
+  }
+]
