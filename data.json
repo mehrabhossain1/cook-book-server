@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chef_picture": "https://example.com/chef1.jpg",
+    "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "chef_name": "John Smith",
     "years_of_experience": 10,
     "num_of_recipes": 50,
@@ -9,6 +9,7 @@
     "bio": "John Smith is a seasoned chef with 10 years of experience in the culinary industry. He is known for his creative recipes and innovative cooking techniques. With a collection of 50 unique recipes, John has garnered a significant following and has received 1000 likes for his delicious creations.",
     "recipes": [
       {
+        "recipeId": "rec001",
         "recipe_name": "Spicy Garlic Shrimp",
         "ingredients": [
           "1 pound shrimp, peeled and deveined",
@@ -21,6 +22,7 @@
         "rating": 4.5
       },
       {
+        "recipeId": "rec002",
         "recipe_name": "Lemon Herb Roasted Chicken",
         "ingredients": [
           "1 whole chicken",
@@ -33,6 +35,7 @@
         "rating": 4.8
       },
       {
+        "recipeId": "rec003",
         "recipe_name": "Chocolate Lava Cake",
         "ingredients": [
           "4 ounces dark chocolate",
@@ -50,7 +53,7 @@
   },
   {
     "id": 2,
-    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
     "chef_name": "Sarah Johnson",
     "years_of_experience": 8,
     "num_of_recipes": 70,
@@ -58,6 +61,7 @@
     "bio": "Sarah Johnson is an experienced chef with 8 years of culinary expertise. She is admired for her diverse range of recipes and ability to create delightful flavors. With 70 recipes under her belt, Sarah has gained a loyal following and has received 1200 likes for her exceptional culinary skills.",
     "recipes": [
       {
+        "recipeId": "rec004",
         "recipe_name": "Mediterranean Quinoa Salad",
         "ingredients": [
           "1 cup cooked quinoa",
@@ -74,6 +78,7 @@
         "rating": 4.7
       },
       {
+        "recipeId": "rec005",
         "recipe_name": "Honey Balsamic Glazed Salmon",
         "ingredients": [
           "4 salmon fillets",
@@ -87,6 +92,7 @@
         "rating": 4.9
       },
       {
+        "recipeId": "rec006",
         "recipe_name": "Lemon Blueberry Pancakes",
         "ingredients": [
           "1 cup all-purpose flour",
@@ -108,7 +114,7 @@
   },
   {
     "id": 3,
-    "chef_picture": "https://example.com/chef3.jpg",
+    "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
     "chef_name": "Michael Anderson",
     "years_of_experience": 15,
     "num_of_recipes": 120,
@@ -116,6 +122,7 @@
     "bio": "Michael Anderson is a highly experienced chef with an impressive 15 years of culinary knowledge. Known for his expertise in various cuisines, Michael has created a repertoire of 120 unique recipes. His exceptional skills and dedication have earned him a considerable following, with 2500 likes for his mouthwatering dishes.",
     "recipes": [
       {
+        "recipeId": "rec007",
         "recipe_name": "Beef Tenderloin with Red Wine Sauce",
         "ingredients": [
           "1 beef tenderloin",
@@ -130,6 +137,7 @@
         "rating": 4.9
       },
       {
+        "recipeId": "rec008",
         "recipe_name": "Chicken Parmesan",
         "ingredients": [
           "4 boneless, skinless chicken breasts",
@@ -147,6 +155,7 @@
         "rating": 4.7
       },
       {
+        "recipeId": "rec009",
         "recipe_name": "Raspberry White Chocolate Muffins",
         "ingredients": [
           "2 cups all-purpose flour",
@@ -168,7 +177,7 @@
   },
   {
     "id": 4,
-    "chef_picture": "https://example.com/chef4.jpg",
+    "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "chef_name": "Emily Davis",
     "years_of_experience": 5,
     "num_of_recipes": 30,
@@ -176,6 +185,7 @@
     "bio": "Emily Davis is a talented chef with 5 years of experience in the culinary world. She has a passion for creating delicious dishes and experimenting with unique flavors. Emily has curated a collection of 30 outstanding recipes that have gained her recognition and 500 likes from food enthusiasts.",
     "recipes": [
       {
+        "recipeId": "rec010",
         "recipe_name": "Caprese Salad",
         "ingredients": [
           "2 large tomatoes, sliced",
@@ -189,6 +199,7 @@
         "rating": 4.5
       },
       {
+        "recipeId": "rec011",
         "recipe_name": "Creamy Garlic Parmesan Pasta",
         "ingredients": [
           "8 ounces fettuccine pasta",
@@ -203,6 +214,7 @@
         "rating": 4.7
       },
       {
+        "recipeId": "rec012",
         "recipe_name": "Blueberry Lemon Loaf",
         "ingredients": [
           "1 1/2 cups all-purpose flour",
@@ -226,7 +238,7 @@
   },
   {
     "id": 5,
-    "chef_picture": "https://example.com/chef6.jpg",
+    "chef_picture": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "chef_name": "Amy Wilson",
     "years_of_experience": 6,
     "num_of_recipes": 40,
@@ -234,6 +246,7 @@
     "bio": "Amy Wilson is a talented chef with 6 years of experience in the culinary world. She has a passion for creating delightful dishes and exploring unique flavors. Amy has curated a collection of 40 exceptional recipes that have earned her recognition and 800 likes from food enthusiasts.",
     "recipes": [
       {
+        "recipeId": "rec013",
         "recipe_name": "Roasted Butternut Squash Soup",
         "ingredients": [
           "1 butternut squash, peeled and cubed",
@@ -251,6 +264,7 @@
         "rating": 4.7
       },
       {
+        "recipeId": "rec014",
         "recipe_name": "Pesto Pasta with Sun-Dried Tomatoes",
         "ingredients": [
           "8 ounces pasta (such as spaghetti or penne)",
@@ -270,7 +284,7 @@
   },
   {
     "id": 6,
-    "chef_picture": "https://example.com/chef7.jpg",
+    "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
     "chef_name": "Mark Johnson",
     "years_of_experience": 9,
     "num_of_recipes": 60,
@@ -278,6 +292,7 @@
     "bio": "Mark Johnson is an experienced chef with 9 years of culinary expertise. He is known for his innovative approach to cooking and his dedication to using fresh, high-quality ingredients. Mark has curated a diverse collection of 60 outstanding recipes that have garnered him 1200 likes from food enthusiasts.",
     "recipes": [
       {
+        "recipeId": "rec015",
         "recipe_name": "Grilled Salmon with Lemon-Dill Sauce",
         "ingredients": [
           "4 salmon fillets",
@@ -293,6 +308,7 @@
         "rating": 4.8
       },
       {
+        "recipeId": "rec016",
         "recipe_name": "Mushroom Risotto",
         "ingredients": [
           "4 cups vegetable broth",
