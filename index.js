@@ -8,8 +8,6 @@ app.use(cors());
 
 const recipes = require("./data.json");
 
-// const chefSectionData = require("./data/ChefSectionData.json");
-
 app.get("/", (req, res) => {
   res.json({ message: "hello server running" });
 });
@@ -17,10 +15,6 @@ app.get("/", (req, res) => {
 app.get("/recipes", (req, res) => {
   res.send({ recipes });
 });
-
-// app.get("/chefData", (req, res) => {
-//   res.send(chefSectionData);
-// });
 
 app.get("recipes/:id", (req, res) => {
   const id = parseInt(req.params.id);
