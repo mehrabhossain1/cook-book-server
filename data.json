@@ -11,6 +11,7 @@
       {
         "recipeId": "rec001",
         "recipe_name": "Spicy Garlic Shrimp",
+        "img": "https://realhousemoms.com/wp-content/uploads/spicy-garlic-shrimp-IN-CONTENT-3.jpg",
         "ingredients": [
           "1 pound shrimp, peeled and deveined",
           "3 cloves garlic, minced",
@@ -24,6 +25,7 @@
       {
         "recipeId": "rec002",
         "recipe_name": "Lemon Herb Roasted Chicken",
+        "img": "https://minimalistbaker.com/wp-content/uploads/2019/10/EASY-Lemon-Herb-Roasted-Chicken-1-pan-6-ingredients-BIG-flavor-perfectly-tender-chicken-glutenfree-chicken-recipe-minimalistbaker-13-683x1024.jpg",
         "ingredients": [
           "1 whole chicken",
           "2 lemons, sliced",
@@ -37,6 +39,7 @@
       {
         "recipeId": "rec003",
         "recipe_name": "Chocolate Lava Cake",
+        "img":"https://preppykitchen.com/wp-content/uploads/2022/03/Chocolate-Lava-Cake-Feature-768x1088.jpg",
         "ingredients": [
           "4 ounces dark chocolate",
           "1/2 cup unsalted butter",

@@ -16,14 +16,11 @@ app.get("/recipes", (req, res) => {
   res.send({ recipes });
 });
 
-app.get("recipes/:id", (req, res) => {
-  const id = parseInt(req.params.id);
-  if (id == 0) {
-    res.send(recipes);
-  } else {
-    const recipe = recipes.filter((n) => parseInt(n.id) === id);
-    res.send(recipe);
-  }
+app.get("/recipes/:id", (req, res) => {
+  const id = req.params.id;
+  // console.log(id);
+  const selectedRecipes = recipes.find((n) => n.id == id);
+  res.send(selectedRecipes);
 });
 
 app.listen(5000, () => {
